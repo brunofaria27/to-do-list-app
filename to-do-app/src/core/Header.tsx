@@ -26,7 +26,7 @@ export const Header = () => {
           color="inherit"
           component="div"
         >
-          ORGANIZDOR DE TAREFAS
+          ORGANIZADOR DE TAREFAS
         </Typography>
       </div>
     </AppBar>
