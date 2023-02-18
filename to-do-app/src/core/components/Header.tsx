@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import list_logo from "../images/list_logo.png";
+import list_logo from "../../images/list_logo.png";
 import { AppBar, Typography } from "@mui/material";
 
 export const Header = () => {
@@ -19,6 +19,7 @@ export const Header = () => {
             margin: 10,
           }}
           src={list_logo}
+          alt="Logo do website"
         ></img>
 
         <Typography
